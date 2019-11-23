@@ -1,0 +1,111 @@
+.bodybg {
+    background-color: #82B9E2;
+}
+
+#bgimg {
+    background-image: url(../Images/jellyfish.jpg);
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.lightcolor {
+    color: aliceblue;
+}
+
+.gray {
+    color: gray;
+}
+
+#mystorytext {
+    margin-top: 0px;
+    color: white;
+}
+
+#lifeinligerbg {
+    background-color: #BCD4F6;
+}
+
+#paddingleft {
+    padding-left: 190px;
+}
+
+#contactbgimg {
+    background-image: url(https://image.freepik.com/free-photo/anonymous-user-clicking-pink-usb-computer-mouse_23-2148182077.jpg);
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+
+#contactdiv {
+    display: grid;
+    grid-template-columns: auto auto;
+    width: 1000px;
+    height: 100px;
+    margin-top: 20px;
+    margin-left: 150px;
+    margin-right: 60px;
+    padding-bottom: 1px;
+    background-color:#65ccb8;
+}
+
+#mainspace {
+    padding-left: 1px;
+}
+
+.doubleborder {
+    border-style: double;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.insetborder {
+    border-style: inset;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.textaligncenter {
+    text-align: center;
+}
+
+.whitetext {
+    color: white;
+    text-decoration-color: white;
+    text-decoration: none;
+}
+
+#personalifebg {
+    background-image: url(../Images/airplane.JPG);
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.photographbg {
+    background-image: url(../Images/photobg.JPG);
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+img {
+    width:100%;
+}
+
+.caption {
+    padding: 15px;
+    text-align: center;
+    font-family: Dosis;
+    font-style: italic;
+    font-weight: bold;
+    
+}
